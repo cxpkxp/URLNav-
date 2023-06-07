@@ -1,4 +1,4 @@
-右键菜单插件
+右鍵選單外掛程式
 使用 contextMenu 要引入 jquery.contextMenu.js 和 jquery.contextMenu.css
-同时由于 contextMenu 依赖 jQuery（必须）和 jQuery UI position（非必须，但还是推荐使用），还必须将这两个引入进来。
+同時由於 contextMenu 依賴 jQuery（必須）和 jQuery UI position（非必須，但還是推薦使用），還必須將這兩個引入進來。
 https://www.cnblogs.com/guandekuan/p/12563930.html

@@ -1,39 +1,39 @@
-TwoNav 是一款开源免费的书签（导航）管理程序，界面简洁，安装简单，使用方便。TwoNav可帮助你将浏览器书签集中式管理，解决跨设备、跨平台、跨浏览器之间同步和访问困难问题，做到一处部署，随处访问。
+TwoNav 是一款開源免費的書簽（導航）管理程式，介面簡潔，安裝簡單，使用方便。TwoNav可説明你將流覽器書簽集中式管理，解決跨設備、跨平臺、跨流覽器之間同步和訪問困難問題，做到一處部署，隨處訪問。
 
 - **演示站**: [http://two.lm21.top](http://two.lm21.top) 
-- **仅供体验,定期清理数据** 账号密码`admin`
+- **僅供體驗,定期清理資料** 帳號密碼`admin`
 
 
-### 相关文档
-* [安装教程](https://gitee.com/tznb/TwoNav/wikis/pages?sort_id=7968668&doc_id=3767990) | [使用说明](https://gitee.com/tznb/TwoNav/wikis) | [下载TwoNav](https://gitee.com/tznb/TwoNav/releases)
-* [OneNav Extend 升级到 TwoNav](https://gitee.com/tznb/OneNav/wikis/pages?sort_id=7955135&doc_id=2439895)
+### 相關文檔
+* [安裝教程](https://gitee.com/tznb/TwoNav/wikis/pages?sort_id=7968668&doc_id=3767990) | [使用說明](https://gitee.com/tznb/TwoNav/wikis) | [下載TwoNav](https://gitee.com/tznb/TwoNav/releases)
+* [OneNav Extend 升級到 TwoNav](https://gitee.com/tznb/OneNav/wikis/pages?sort_id=7955135&doc_id=2439895)
 
-### 项目地址
+### 項目位址
 - [https://gitee.com/tznb/TwoNav](https://gitee.com/tznb/TwoNav)
 - [https://github.com/tznb1/TwoNav](https://github.com/tznb1/TwoNav)
 
-### 技术支持
+### 技術支援
 - QQ: 271152681
 - QQ群: 695720839
 
-### 运行环境
+### 運行環境
 * PHP: 7.3 - 8.2 
-* 数据库: SQLite3 或 MySQL > 5.6.0
+* 資料庫: SQLite3 或 MySQL > 5.6.0
 
 ### 功能特色
-* 支持后台管理
-* 支持私有链接
-* 支持加密链接
-* 支持分享链接
-* 支持二级分类
-* 支持用户分组
-* 支持Chrome/Firefox/Edge书签批量导入
-* 支持多种主题风格
-* 支持链接信息自动识别
+* 支援後臺管理
+* 支援私有連結
+* 支援加密連結
+* 支援分享連結
+* 支援二級分類
+* 支援用戶分組
+* 支援Chrome/Firefox/Edge書簽批量導入
+* 支援多種主題風格
+* 支援連結資訊自動識別
 * 支持API
 * 支持Docker部署
-* 支持uTools插件
-* 支持Chromium内核的[浏览器扩展]
+* 支持uTools外掛程式
+* 支持Chromium內核的[流覽器擴展]
 
-![](https://foruda.gitee.com/images/1680680754989095293/fcc56e76_10359480.jpeg "主页预览")
-![](https://foruda.gitee.com/images/1680680836189756220/8c227c34_10359480.jpeg "主题模板")
+![](https://foruda.gitee.com/images/1680680754989095293/fcc56e76_10359480.jpeg "主頁預覽")
+![](https://foruda.gitee.com/images/1680680836189756220/8c227c34_10359480.jpeg "主題範本")
